@@ -1,4 +1,4 @@
-# Project for Up skill using github
+# Git for Developers Courese
 
 It is an introductory learning for using github and reviewing the knowledge of using it.
 
